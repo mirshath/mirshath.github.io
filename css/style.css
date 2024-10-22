@@ -12324,7 +12324,7 @@ textarea.form-control {
   border-radius: 2px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  border: 2px solid #b1b493;
+  border: 2px solid #D72222;
 }
 .contact-section .contact-form .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -12368,13 +12368,13 @@ textarea.form-control {
   color: #000000;
 }
 .dbox p a {
-  color: #b1b493;
+  color: #D72222;
 }
 .dbox .icon {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #b1b493;
+  background: #D72222;
   margin: 0 auto;
   margin-bottom: 20px;
 }
