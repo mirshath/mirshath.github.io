@@ -231,7 +231,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #7d6c77;
   text-align: left;
   caption-side: bottom;
 }
@@ -6958,7 +6958,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #D72222 !important;
 }
 
 a.bg-primary:hover,
@@ -11139,7 +11139,7 @@ h5,
   font-size: 14px;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #b1b493;
+  color: #D72222;
 }
 .owl-carousel.home-slider .slider-item .slider-text .text {
   position: relative;
@@ -11418,8 +11418,8 @@ h5,
 }
 .btn.btn-primary.btn-outline-primary:hover {
   border: 2px solid transparent !important;
-  background: #b1b493 !important;
-  color: #D72222 !important;
+  background: #D72222 !important;
+  color: white !important;
 }
 .btn.btn-secondary {
   background: #a0f669 !important;
@@ -11490,7 +11490,7 @@ h5,
 .ftco-about ul.about-info li span {
   width: calc(100% - 130px);
   font-weight: 600;
-  color: rgb(220, 53, 69);
+  color: #D72222;
 }
 .ftco-about ul.about-info li span:first-child {
   font-weight: 600;
@@ -11503,7 +11503,7 @@ h5,
 }
 .ftco-about .my-interest .interest-wrap {
   width: 25%;
-  border-left: 2px solid #b1b493;
+  border-left: 2px solid #D72222;
   padding-left: 10px;
 }
 @media (max-width: 1199.98px) {
@@ -11517,10 +11517,10 @@ h5,
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #b1b493;
+  background: #D72222;
 }
 .ftco-about .my-interest .interest-wrap .icon span {
-  color: #000000;
+  color: white;
   font-size: 18px;
 }
 .ftco-about .my-interest .interest-wrap .text {
@@ -11590,7 +11590,7 @@ h5,
 }
 
 .progress-circle .h4 {
-  color: #b1b493;
+  color: #D72222;
   font-size: 22px;
 }
 
@@ -11647,7 +11647,7 @@ h5,
   -webkit-transform-origin: center left;
   -ms-transform-origin: center left;
   transform-origin: center left;
-  border-color: #b1b493 !important;
+  border-color: #d72222 !important;
 }
 
 .progress-circle .progress .progress-right {
@@ -11662,7 +11662,7 @@ h5,
   -webkit-transform-origin: center right;
   -ms-transform-origin: center right;
   transform-origin: center right;
-  border-color: #b1b493 !important;
+  border-color: #d72222 !important;
 }
 
 .progress-circle .progress .progress-value {
@@ -12077,7 +12077,7 @@ textarea.form-control {
   margin-bottom: 5px;
   text-transform: uppercase;
   color: black;
-  color: rgb(220, 53, 69);
+  color: #D72222;
   letter-spacing: 3px;
 }
 
@@ -12171,7 +12171,7 @@ textarea.form-control {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #b1b493;
+  background: #D72222;
   position: relative;
 }
 .ftco-counter .icon span {
@@ -12199,7 +12199,7 @@ textarea.form-control {
 .ftco-counter .text span {
   font-weight: 600;
   font-size: 15px;
-  color: #b1b493;
+  color: #D72222;
   text-transform: uppercase;
 }
 @media (max-width: 767.98px) {
