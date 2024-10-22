@@ -11443,13 +11443,14 @@ h5,
 }
 .btn.btn-white {
   background: #fff !important;
-  border: 1px solid #fff !important;
-  color: #b1b493 !important;
+  /* border: 1px solid #fff !important; */
+  color: #D72222 !important;
+  font-size: large;
 }
 .btn.btn-white:hover {
-  border: 1px solid #000000;
-  background: #fff !important;
-  color: #fff;
+  border: 1px solid white;
+  background: #D72222 !important;
+  color: white !important;;
 }
 .btn.btn-white.btn-outline-white {
   border: 1px solid #fff;
@@ -11672,7 +11673,7 @@ h5,
 }
 
 .ftco-hireme {
-  background: #b1b493;
+  background: #D72222;
   padding: 0;
   color: rgba(255, 255, 255, 0.9);
 }
@@ -11859,7 +11860,7 @@ h5,
   border-radius: 50%;
 }
 .testimony-wrap .fa {
-  color: #b1b493;
+  color: #D72222;
   font-size: 30px;
   position: absolute;
   left: 20px;
@@ -11921,7 +11922,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-  background: #b1b493 !important;
+  background: #D72222 !important;
 }
 
 .ftco-section {
