@@ -10707,7 +10707,7 @@ h5,
   padding-bottom: 0.7rem;
 }
 .ftco-navbar-light .navbar-brand span {
-  color: #000000;
+  color: #d72222;
 }
 .ftco-navbar-light .navbar-brand:hover,
 .ftco-navbar-light .navbar-brand:focus {
@@ -10752,7 +10752,7 @@ h5,
   height: 2px;
   bottom: 0;
   left: 0;
-  background: #b1b493;
+  background: #d72222;
   visibility: visible;
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
@@ -10811,7 +10811,7 @@ h5,
 .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active {
   background: transparent;
   background: none;
-  color: #b1b493;
+  color: #d72222;
 }
 .ftco-navbar-light .navbar-nav > .nav-item .nav-link.active span:before {
   visibility: visible;
@@ -10903,7 +10903,7 @@ h5,
   color: #000000 !important;
 }
 .ftco-navbar-light.scrolled .nav-link.active {
-  color: #b1b493 !important;
+  color: #d72222 !important;
 }
 .ftco-navbar-light.scrolled.awake {
   margin-top: 0px;
@@ -10917,13 +10917,13 @@ h5,
   transition: 0.3s all ease-out;
 }
 .ftco-navbar-light.scrolled .navbar-brand {
-  color: #000000;
+  color: #d72222;
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-size: 24px;
 }
 .ftco-navbar-light.scrolled .navbar-brand span {
-  color: #b1b493;
+  color: black;
 }
 
 .navbar-brand {
@@ -11545,7 +11545,7 @@ h5,
   margin-top: -60px;
   width: 80px;
   height: 80px;
-  background: #b1b493;
+  background: #d72222;
   border-radius: 50%;
   margin-bottom: 15px;
   -moz-transition: all 0.3s ease;
@@ -11560,17 +11560,17 @@ h5,
 }
 .services .media-body h3 {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 700;
 }
 .services:hover {
-  background: #b1b493 !important;
+  background: black !important;
 }
 .services:hover .icon {
   background: #fff;
   margin-left: 20px;
 }
 .services:hover .icon span {
-  color: #b1b493;
+  color: red;
 }
 .services:hover h3 {
   color: #fff;
